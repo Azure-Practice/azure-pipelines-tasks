@@ -13,8 +13,8 @@
   "author": "Microsoft Corporation",
   "version": {
     "Major": 0,
-    "Minor": 167,
-    "Patch": 1
+    "Minor": 170,
+    "Patch": 0
   },
   "satisfies": [
     "Java"
@@ -171,6 +171,7 @@
     "CouldNotFetchAccessTokenforMSIDueToMSINotConfiguredProperlyStatusCode": "ms-resource:loc.messages.CouldNotFetchAccessTokenforMSIDueToMSINotConfiguredProperlyStatusCode",
     "CouldNotFetchAccessTokenforMSIStatusCode": "ms-resource:loc.messages.CouldNotFetchAccessTokenforMSIStatusCode",
     "ExpiredServicePrincipal": "ms-resource:loc.messages.ExpiredServicePrincipal",
-    "CorrelationIdForARM": "ms-resource:loc.messages.CorrelationIdForARM"
+    "CorrelationIdForARM": "ms-resource:loc.messages.CorrelationIdForARM",
+    "WrongArchiveStructure": "ms-resource:loc.messages.WrongArchiveStructure"
   }
 }
